@@ -1,0 +1,12 @@
+*{margin: 0; padding: 0; height: 100%; width: 100%;}
+
+main div{
+    height: 50%; width: 50%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('RickAstleu.jpg');
+}
